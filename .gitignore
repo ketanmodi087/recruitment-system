@@ -17,3 +17,7 @@ yarn-error.log
 /.fleet
 /.idea
 /.vscode
+
+# Ignore user uploads and runtime storage
+/public/uploads
+/storage
